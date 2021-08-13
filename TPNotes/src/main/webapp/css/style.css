@@ -26,6 +26,19 @@ h1 {
 	border-radius : 5px;
 	padding : 15px;
 }
+a {
+	padding: 10px;
+	background-color :#6cebbf ;
+	color : black;
+	border : solid black 2px;
+	border-radius : 5px;
+	margin-left : 52px;
+	text-decoration:none;
+}
+a:hover {
+	cursor : pointer;
+	background-color : pink;
+}
 
 form button {
 	padding: 10px;
