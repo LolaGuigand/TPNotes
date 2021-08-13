@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body
+{
+
+ 	background-color : #a9cce3  ; 
+ 	background-attachment:fixed;
+	
+}
+h1 {
+	font-size: 300%;
+}
+.succes{
+	color : green;
+	font-size:200%;
+	background-color: white;
+	border : solid black 2px;
+	border-radius : 5px;
+	padding : 15px;
+}
+.erreur {
+	color : red;
+	font-size: 200%;
+	background-color: white;
+	border : solid black 2px;
+	border-radius : 5px;
+	padding : 15px;
+}
+
+form button {
+	padding: 10px;
+	background-color :#6cebbf ;
+	color : black;
+	border : solid black 2px;
+	border-radius : 5px;
+	margin-left : 52px;
+}
+
+form button:hover {
+	cursor : pointer;
+	background-color : pink;
+}
